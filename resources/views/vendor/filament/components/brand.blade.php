@@ -1,0 +1,1 @@
+<img src="{{ asset('/images/admin-blue.png') }}" alt="Logo" class="h-10">
